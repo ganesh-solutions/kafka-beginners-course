@@ -10,3 +10,4 @@ This is a companion repository for my [Kafka for Beginners](https://links.datacu
 - ElasticSearch Consumer
 - Kafka Streams 101
 - Kafka Connect Example
+new line
